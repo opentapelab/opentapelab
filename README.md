@@ -8,6 +8,6 @@ OpenTape Lab tests trading rules in the open. Every rule is written down before 
 - **The app** - your own AI researcher for building and testing rules
 - **The course** - the method, step by step, so you can build your own lab
 
-Paper trading only. No signals, no financial advice.
+Paper trading only. No signals, no financial advice. Join the lab: [patreon.com/c/OpenTapeLab](https://www.patreon.com/c/OpenTapeLab)
 
 **Website:** [opentapelab.com](https://opentapelab.com) · **YouTube:** [@OpenTapeLab](https://www.youtube.com/@OpenTapeLab) · **X:** [@OpenTapeLab](https://x.com/OpenTapeLab) · **TikTok:** [@opentapelab](https://www.tiktok.com/@opentapelab)
